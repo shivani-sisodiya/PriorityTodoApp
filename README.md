@@ -38,7 +38,7 @@ It features task creation, editing, sorting by priority, search, category groupi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/priority-todo-app.git
+   git clone https://github.com/shivani-sisodiya/PriorityTodoApp.git
    cd priority-todo-app
 
 2. Install dependencies
