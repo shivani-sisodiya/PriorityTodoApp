@@ -64,23 +64,23 @@ npx expo start --web
 
 LoginScreen
 
-Uses a fake login API (loginApi()).
+- Uses a fake login API (loginApi()).
 
-Navigates to DashboardScreen after success.
+- Navigates to DashboardScreen after success.
 
 DashboardScreen
 
-Displays all tasks grouped by category.
+- Displays all tasks grouped by category.
 
-Allows searching, sorting, marking complete, deleting, and adding tasks.
+- Allows searching, sorting, marking complete, deleting, and adding tasks.
 
-"Add" navigates to AddEditTodoModal.
+- "Add" navigates to AddEditTodoModal.
 
-"Logout" returns to Login screen.
+- "Logout" returns to Login screen.
 
 AddEditTodoModal
 
-Allows adding a new task or editing an existing one.
+- Allows adding a new task or editing an existing one.
 
-Selects Priority and Category from animated modal pickers.
+- Selects Priority and Category from animated modal pickers.
 
