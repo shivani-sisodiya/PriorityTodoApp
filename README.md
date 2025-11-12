@@ -84,3 +84,10 @@ AddEditTodoModal
 
 - Selects Priority and Category from animated modal pickers.
 
+<img width="1206" height="2622" alt="login" src="https://github.com/user-attachments/assets/28a1ea9c-4f40-4966-8e1c-6a62fa521375" />
+<img width="1206" height="2622" alt="dashboard" src="https://github.com/user-attachments/assets/486a6770-4ce3-427a-a024-fc5c930a100f" />
+
+
+
+
+
